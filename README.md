@@ -1,2 +1,2 @@
-# CryptoTrading-Robot
-Trading Robot for cryptocurrencies in Binance
+# CryptoTrading-Bot
+Algorithmic Trading Robot for Cryptocurrencies in Binance

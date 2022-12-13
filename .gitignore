@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# specific files
+
+config.py
+Binance_API.txt
+Binance API.JPG
