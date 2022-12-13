@@ -1,0 +1,10 @@
+06-12-2022:
+
+* 	Empiezo a recopilar info y comandos API Binance
+
+07-12-2022:
+
+*	Empiezo a codear en Visual Studio el primer robot
+*	Me encuentro problemas a la hora de instalar librerías en Visual Studio 
+	por no entender muy bien como cambiar entornos virtuales e instalar librerías en VSC
+*	Decido desinstalar todo (Anaconda incluido) y empezar de cero --> Error. Aún más problemas
